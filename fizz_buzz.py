@@ -1,0 +1,1 @@
+print("\n".join([{-1:str(x), 0:"FizzBuzz", 1:"Fizz", 2:"Buzz"}[[x%3==0 and x%5==0, x%3==0, x%5==0].index(True) if [x%3==0 and x%5==0, x%3==0, x%5==0].count(False) != 3 else -1] for x in range(1, 101)]))
