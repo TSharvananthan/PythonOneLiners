@@ -1,0 +1,1 @@
+def caught_speeding(speed, is_birthday): return [speed <= 60, speed in range(61, 81), speed >= 81].index(True) if not is_birthday else [speed - 5 <= 60, speed - 5 in range(61, 81), speed - 5 >= 81].index(True)

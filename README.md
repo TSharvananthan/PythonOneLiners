@@ -8,7 +8,7 @@ I do this for fun. Just a little time killer when I'm in the middle of coding an
 [**Obfuscating "Hello world!"** By Ben Kurtovic](https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html)
 
 ## ALSO
-- These aren't good solutions at all. Most are very ineffective and have a lot of improvments that could be made. 
+- These aren't good solutions at all. Most are very ineffective and have a lot of improvements that could be made.
 
 ## Done Programs
 <table>
